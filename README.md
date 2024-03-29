@@ -10,11 +10,11 @@ I have provided the dataset that I used for analysis [Car Supply Chain.xlsx]
 ## Visualization
 The Power BI dashboard provides insights into supply chain efficiency, inventory levels, and production trends.
 
-I have provided the dashboard [Car Supply Chain(USA).pbix]
+I have provided the dashboard [Car Supply Chain (USA).pbix]
 ## Conclusion
 The analysis enhances understanding of the car supply chain dynamics and identifies areas for optimization.
 
-I have provided a summary report for this project [Car Supply Chain(USA).pdf]
+I have provided a summary report for this project [Car Supply Chain (USA).pdf]
 ## Further development if needed:
 - Incorporate real-time data streaming for dynamic updates.
 - Expand analysis to include predictive analytics for demand forecasting.
