@@ -12,7 +12,7 @@ The Power BI dashboard provides insights into supply chain efficiency, inventory
 
 I have provided the dashboard [Car Supply Chain (USA).pbix]
 ## Conclusion
-The analysis enhances understanding of the car supply chain dynamics and identifies areas for optimization.
+'The analysis enhances understanding of the car supply chain dynamics and identifies areas for optimization.'
 
 I have provided a summary report for this project [Car Supply Chain (USA).pdf]
 ## Further development if needed:
