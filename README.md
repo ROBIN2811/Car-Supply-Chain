@@ -1,5 +1,6 @@
 # Car-Supply-Chain
 This repository contains Power BI files and documentation related to an interactive dashboard created for analyzing the car supply chain. The dashboard visualizes key performance indicators and insights derived from the analysis of supply chain data.
+![Car Supply Chain](https://github.com/ROBIN2811/Car-Supply-Chain/blob/main/Car%20supply%20chain.png)
 ## Dataset
 The dataset used for this analysis includes information about various stages of the car supply chain, such as production, distribution, and sales.
 
